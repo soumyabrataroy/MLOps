@@ -1,2 +1,1 @@
-
-![image](https://github.com/soumyabrataroy/MLOps/assets/46237589/607379cb-1468-4347-9100-7519546203fe)
+![image](https://github.com/soumyabrataroy/MLOps/assets/46237589/1efde12a-d8ea-41c0-b90e-5c65bbf04e62)
